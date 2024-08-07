@@ -7,6 +7,7 @@
 ### Back-End
 [![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)](https://golang.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Python](https://img.shields.io/badge/-Python-FFD43B?logo=python&logoColor=306998)](https://www.python.org/)
 
 ### Front-End
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
