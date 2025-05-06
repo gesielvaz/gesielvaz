@@ -1,8 +1,6 @@
 
 # Desenvolvedor Back-End e Front-End 
-- Conhecimentos Básicos nas Seguintes Tecnologias
 
-## Tecnologias
 
 ### Back-End
 [![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)](https://golang.org/)
@@ -44,7 +42,6 @@
 
 ## O que eu posso oferecer
 
-- Tenho 2 anos e 8 meses de experiência na área de programação.
 - Desenvolvimento de APIs funcionais.
 - Criação de interfaces dinâmicas e responsivas.
 - Integração com bancos de dados relacionais.
