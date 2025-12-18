@@ -54,7 +54,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gesiel-vaz) [![Instagram](https://img.shields.io/badge/Instagram-FFF?style=for-the-badge&logo=instagram&logoColor=0E76A8)](https://www.instagram.com/gesiel_vaz/) [![gesieldosanjosvaz@gmail.com](https://img.shields.io/badge/-gesieldosanjosvaz@gmail.com-FFF?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:gesieldosanjosvaz@gmail.com)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gesielvaz&theme=github_dark" />
+## 📈 GitHub Activity (public)
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gesielvaz&theme=github-dark&hide_border=true" />
+
+<img src="https://ghchart.rshah.org/409ba5/gesielvaz" />
+
+> 🔒 Atividade em repositórios privados e organizações não é exibida,
+> mas compõe a maior parte do meu trabalho diário.
 
 
