@@ -58,7 +58,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gesielvaz&theme=github-dark&hide_border=true" />
 
-<img src="https://ghchart.rshah.org/409ba5/gesielvaz" />
 
 > 🔒 Atividade em repositórios privados e organizações não é exibida,
 > mas compõe a maior parte do meu trabalho diário.
